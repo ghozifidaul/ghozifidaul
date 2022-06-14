@@ -1,7 +1,7 @@
 # **About Me**
 - 👋 Hi, I’m @ghozifidaul
 - 👀 I’m interested in Mobile Apps Development
-- 🌱 I've been working with Flutter, Laravel, Python, Django, React, and React Native
+- 🌱 I've been working using Flutter, Laravel, Python, Django, React, and React Native
 - 📫 How to reach me Twitter : @ghozifidaulh, E-Mail : ghozifidaul@gmail.com
 
 # **Tech Stack**
