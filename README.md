@@ -20,8 +20,9 @@ Full-stack developer specializing in cross-platform solutions. I build scalable 
 
 ## 📫 Get in Touch
 **Email:** ghozifidaul@gmail.com  
-**GitHub:** github.com/ghozifidaul  
-[LinkedIn][https://linkedin.com/in/ghozifidaul] • [Portfolio][https://ghozifidaul.com]
+**LinkedIn:** [linkedin.com/in/ghozifidaul](https://linkedin.com/in/ghozifidaul)  
+**Portfolio:** [ghozifidaul.com](https://ghozifidaul.com)  
+**GitHub:** github.com/ghozifidaul
 
 ---
 *Open to remote, hybrid, or on-site roles*
