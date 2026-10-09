@@ -15,9 +15,6 @@ Full-stack developer specializing in cross-platform solutions. I build scalable 
 - Experience with both rapid prototyping and production-grade applications
 - Cloud infrastructure management and deployment at scale
 
-## 🎯 Currently
-**Seeking full-time opportunities** where I can contribute to impactful projects and grow with a collaborative team.
-
 ## 📫 Get in Touch
 **Email:** ghozifidaul@gmail.com  
 **LinkedIn:** [linkedin.com/in/ghozifidaul](https://linkedin.com/in/ghozifidaul)  
